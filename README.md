@@ -4,7 +4,7 @@ Check out the research paper in the repository for a complete explanation of the
 ## The Algorithm
 ![](outputs/process.png)
 
-## Digit Detection
+## Digit Recognition
 ![](outputs/time_stamp_animation.gif)
 
 ### YOLOv3 Timestamp Localization Performance
