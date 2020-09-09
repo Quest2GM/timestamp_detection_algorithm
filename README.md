@@ -1,5 +1,5 @@
 # Timestamp Detection and Recognition Algorithm
-Check out the research paper in the repository for a complete breakdown of the algorithm!
+Check out the research paper in the repository for a complete explanation of the algorithm!
 
 ## The Algorithm
 ![](outputs/process.png)
@@ -24,7 +24,7 @@ Check out the research paper in the repository for a complete breakdown of the a
 | Incorrect               | 58            |
 | **Accuracy**            | **94.1%**     |
 
-(Note: "Acceptable" is defined as cases where the detection is off by one or two digits, but the timestamp's date can still be understood by a human. These cases arise in part due to partial detection in YOLOv3 localization.)
+(Note: "Acceptable" is defined as cases where the detection is off by one or two digits, but the timestamp's date can still be understood by a human. These cases arise in part due to error carrying forward from YOLOv3 localization.)
 
 ### Speed
 Averages around 3 seconds for localization and detection combined.
