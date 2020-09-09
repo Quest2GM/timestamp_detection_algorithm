@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>4.jpg</filename>
+	<path>C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis\XML\test\4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>time_stamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>2</ymin>
+			<xmax>197</xmax>
+			<ymax>22</ymax>
+		</bndbox>
+	</object>
+</annotation>

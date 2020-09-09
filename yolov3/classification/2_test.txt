@@ -1,0 +1,50 @@
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/0.jpg 388,384,528,406,0 386,405,532,428,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/1.jpg 1,2,198,25,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/10.jpg 380,385,530,406,0 380,407,533,429,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/11.jpg 385,385,528,407,0 386,404,529,429,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/12.jpg 383,384,528,405,0 385,404,530,428,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/13.jpg 382,387,527,408,0 383,405,527,427,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/14.jpg 381,382,529,407,0 382,407,533,428,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/15.jpg 384,386,537,407,0 386,405,539,429,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/16.jpg 384,382,529,407,0 384,407,532,427,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/17.jpg 382,383,527,407,0 382,406,527,427,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/18.jpg 381,383,531,406,0 380,404,533,430,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/19.jpg 384,386,530,407,0 381,405,529,429,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/20.jpg 386,384,525,408,0 386,403,529,429,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/3.jpg 1,1,197,23,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/354.jpg 1,1,160,18,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/355.jpg 1,1,158,18,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/356.jpg 1,1,159,18,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/357.jpg 1,1,158,20,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/358.jpg 1,3,196,26,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/359.jpg 2,1,254,31,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/4.jpg 2,2,197,22,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/5.jpg 1,1,201,23,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/6.jpg 1,3,204,23,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/620.jpg 260,1,643,39,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/621.jpg 260,1,636,39,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/622.jpg 205,1,366,18,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/623.jpg 271,1,430,18,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/624.jpg 199,1,361,18,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/625.jpg 279,1,442,19,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/627.jpg 142,1,305,19,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/628.jpg 142,1,301,21,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/629.jpg 142,1,302,19,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/630.jpg 1,1,254,29,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/631.jpg 1,2,125,20,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/632.jpg 2,2,433,50,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/633.jpg 1,2,129,22,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/634.jpg 2,1,132,22,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/636.jpg 1,1,162,19,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/637.jpg 1,1,159,20,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/638.jpg 2,2,130,22,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/639.jpg 1,1,164,19,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/640.jpg 2,1,130,23,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/641.jpg 3,2,431,48,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/7.jpg 382,385,533,406,0 383,404,535,426,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/74.jpg 255,1,588,36,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/8.jpg 381,382,531,406,0 383,404,531,429,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/84.jpg 286,1,623,36,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/85.jpg 288,1,620,36,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/86.jpg 269,1,620,34,0
+C:\Users\sid_a\PycharmProjects\MTO_Highway_Analysis/XML/test/9.jpg 383,386,531,407,0 383,407,534,428,0
